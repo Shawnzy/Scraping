@@ -1,0 +1,9 @@
+#jetbrains
+.idea
+
+# vim
+*.swp
+*.swo
+*.swn
+
+*.py[cod]
